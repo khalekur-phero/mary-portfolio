@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+.nav-title {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    display: flex;
+    list-style: none;
+    margin-left: 50px;
+}
+
+.primary-text {
+    color: #FD6E0A;
+}
